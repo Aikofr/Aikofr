@@ -1,3 +1,11 @@
+# Bonjour, Hello 👋
+Développeur **Full Stack JavaScript / TypeScript**, passionné par la création d'applications web performantes et scalables.  
+Spécialisé en **React / Vite** pour le front-end et **Node.js / Express** pour le back-end, avec une expérience en **cloud (Google Cloud / AWS)**, **IA (LLM, llama.cpp)**, et déploiement sur **Linux**.
+
+---
+
+## 🛠 Stack technique
+
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,6 +36,20 @@
 ![Perforce](https://img.shields.io/badge/Perforce-005BBB?style=for-the-badge)
 ![Google API](https://img.shields.io/badge/Google_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+---
+
+## 🌱 Actuellement j’apprends
+- VueJS et frameworks front-end alternatifs
+- CI/CD avancé et pratiques DevOps
+- Approfondissement en IA appliquée et cloud computing
+
+---
+
+## 📫 Me contacter
+- Email : [sachacometti@gmail.com](mailto:sachacometti@gmail.com)
+- LinkedIn : [Sacha Cometti](https://www.linkedin.com/in/sachacometti)
+
+---
 
 <!--
 **Aikofr/Aikofr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
